@@ -4,17 +4,17 @@ Heyo! 👋 Welcome to my profile.
 
 Some (but not all) of my projects and projects I contribute to.
 
-- [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise by way of composing its library of patterns and function generators.
-- [[https://github.com/byulparan/cl-collider][cl-collider]] - A Lisp interface to the SuperCollider audio synthesis server. Not my project, but one I contribute to a lot.
-- [[https://github.com/defaultxr/bdef][bdef]] - Lisp system to abstract away and make handling audio buffers easier in the audio server backends supported by cl-patterns.
+- [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise by composition of its library of patterns and function generators.
+- [[https://github.com/byulparan/cl-collider][cl-collider]] - A Lisp interface to the SuperCollider audio synthesis server. Not my project, but one I contribute to frequently.
+- [[https://github.com/defaultxr/bdef][bdef]] - Lisp system to simplify and improve handling of audio buffers in supported synthesis engines.
 - [[https://github.com/defaultxr/thundersnow][thundersnow]] - Digital audio workstation and "live coding laboratory" in Lisp, building on cl-patterns and bdef with various graphical interfaces. Currently in very early stages of development.
 - [[https://github.com/defaultxr/worm]["worm"]] - Working title for my action/sandbox game in Lisp, inspired by early Sonic and Zelda. Currently private and in very early stages of development.
 - [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities.
 - [[https://github.com/defaultxr/scripts][scripts]] - Some of the scripts I've written for myself. Written in various languages but mostly Fish and Python.
-- [[https://github.com/defaultxr/gosd.py][gosd.py]] - Simple OSD script to show the currently-playing track in mpd, as well as the date and time and other information.
+- [[https://github.com/defaultxr/gosd.py][gosd.py]] - Simple OSD script in Python to show the currently-playing track in [[https://musicpd.org][MPD]], as well as the date, time, and other information.
 - [[https://github.com/t-cool/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable [[https://t-cool.github.io/cl-collider-tutorial/][here]].
-- [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Definitely needs some work.
-- [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by sending OSC messages to an audio server like SuperCollider. Currently nonfunctional.
+- [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
+- [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by translating input events to equivalent "MIDI notes".
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
 - [[https://github.com/defaultxr/taptempo.py][taptempo.py]] - Simple Python script to get the BPM of a tempo by tapping a key from the command line.
 
