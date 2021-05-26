@@ -12,7 +12,7 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities.
 - [[https://github.com/defaultxr/scripts][scripts]] - Some of the scripts I've written for myself. Written in various languages but mostly Fish and Python.
 - [[https://github.com/defaultxr/gosd.py][gosd.py]] - Simple OSD script in Python to show the currently-playing track in [[https://musicpd.org][MPD]], as well as the date, time, and other information.
-- [[https://github.com/t-cool/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable [[https://t-cool.github.io/cl-collider-tutorial/][here]].
+- [[https://github.com/defaultxr/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable [[https://defaultxr.github.io/cl-collider-tutorial/][here]].
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
 - [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by translating input events to equivalent "MIDI notes".
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
