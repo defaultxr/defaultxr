@@ -25,7 +25,7 @@ Some (but not all) of my projects and projects I contribute to.
 - Window Manager: StumpWM
 - Terminal: Alacritty
 - Editor: Emacs
-- Favorite languages: Common Lisp, Smalltalk (Pharo), Raku, Scheme, Pure Data, Fish, SuperCollider (before [[https://github.com/byulparan/cl-collider][cl-collider]]).
+- Favorite languages: Common Lisp, Smalltalk (Pharo), Raku, Scheme (Gerbil), Pure Data, Fish.
 - Most-used languages: Common Lisp, Fish, Python.
 - Favorite OSes: Guix, Arch Linux, Plan 9.
 - Most-used OSes: Arch Linux, Mac OS, CentOS, Debian, Guix.
@@ -35,4 +35,4 @@ Some (but not all) of my projects and projects I contribute to.
 
 * !
 
-⏻蛾✨🖧🎵🎮♽∞😇🐾
+⏻ 蛾 🖧 🎵 🎮 ♽ ∞ 😇 🐾 ✨
