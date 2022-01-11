@@ -4,13 +4,13 @@ Heyo! 👋 Welcome to my profile.
 
 Some (but not all) of my projects and projects I contribute to.
 
-- [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise by composition of its library of patterns and function generators.
+- [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise through composition of its library of patterns and function generators.
 - [[https://github.com/byulparan/cl-collider][cl-collider]] - A Lisp interface to the SuperCollider audio synthesis server. Not my project, but one I contribute to frequently.
 - [[https://github.com/defaultxr/bdef][bdef]] - Lisp system to simplify and improve handling of audio buffers in supported synthesis engines.
-- [[https://github.com/defaultxr/thundersnow][thundersnow]] - Digital audio workstation and "live coding laboratory" in Lisp, building on cl-patterns and bdef with various graphical interfaces. Currently in very early stages of development.
+- [[https://github.com/defaultxr/thundersnow][thundersnow]] - Digital audio workstation and "live coding laboratory" in Lisp, building on cl-patterns and bdef with various graphical interfaces. Currently in very early (pre-alpha) stages of development.
 - [[https://github.com/defaultxr/worm]["worm"]] - Working title for my action/sandbox game in Lisp, inspired by early Sonic and Zelda. Currently private and in very early stages of development.
-- [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities.
-- [[https://github.com/defaultxr/scripts][scripts]] - Some of the scripts I've written for myself. Written in various languages but mostly Fish and Python.
+- [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities. Kind of a mess, but slowly being cleaned up and reworked.
+- [[https://github.com/defaultxr/scripts][scripts]] - Some of the convenience scripts I've written for myself. Written in a few different languages (...but mostly Fish).
 - [[https://github.com/defaultxr/gosd.py][gosd.py]] - Simple OSD script in Python to show the currently-playing track in [[https://musicpd.org][MPD]], as well as the date, time, and other information.
 - [[https://github.com/defaultxr/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable [[https://defaultxr.github.io/cl-collider-tutorial/][here]].
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
