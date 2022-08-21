@@ -18,20 +18,20 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
 - [[https://github.com/defaultxr/taptempo.py][taptempo.py]] - Simple Python script to get the BPM of a tempo by tapping a key from the command line.
 
-* Software-related trivia
+* Trivia
 
 - OS: Arch Linux
 - Shell: Fish
 - Window Manager: StumpWM
 - Terminal: Alacritty
 - Editor: Emacs
-- Favorite languages: Common Lisp, Smalltalk (Pharo), Raku, Scheme (Gerbil), Pure Data, Fish.
+- Favorite languages: Common Lisp, Factor, Smalltalk (Pharo), Raku, Scheme (Gerbil, Guile), Pure Data, Fish.
 - Most-used languages: Common Lisp, Fish, Python.
 - Favorite OSes: Guix, Arch Linux, Plan 9.
 - Most-used OSes: Arch Linux, Mac OS, CentOS, Debian, Guix.
 - Favorite software: Emacs, StumpWM, Blender, mpv, sxiv, Opera (pre-13.0; RIP).
 - Favorite games: Sonic 3 Complete, Geneforge, Killer7, Factorio, Yoshi's Island.
-- Excited for: Matrix, IPFS, Guix, Bcachefs, Pipewire.
+- Excited for: Matrix, IPFS, Guix, Bcachefs, Pipewire, [[https://github.com/stumpwm/mahogany][Mahogany]], [[https://github.com/stumpwm/paulownia][Paulownia]], [[https://github.com/malcolmstill/ulubis][Ulubis]].
 
 * !
 
