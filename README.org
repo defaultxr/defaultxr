@@ -33,6 +33,10 @@ Some (but not all) of my projects and projects I contribute to.
 - Favorite games: Sonic 3 Complete, Geneforge, Killer7, Factorio, Yoshi's Island.
 - Excited for: Matrix, IPFS, Guix, Bcachefs, Pipewire, [[https://github.com/stumpwm/mahogany][Mahogany]], [[https://github.com/stumpwm/paulownia][Paulownia]], [[https://github.com/malcolmstill/ulubis][Ulubis]].
 
+* Note
+
+GitHub sponsors matches 100% of the donations from the first year, which is why I haven't activated it yet. If you want to sponsor me, let me know and I'll activate it.
+
 * !
 
 ⏻ 蛾 🖧 🎵 🎮 ♽ ∞ 😇 🐾 ✨
