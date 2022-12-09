@@ -1,7 +1,6 @@
 Heyo! 👋 Welcome to my profile.
 
 * Projects
-
 Some (but not all) of my projects and projects I contribute to.
 
 - [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise through composition of its library of patterns and function generators.
@@ -21,7 +20,6 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/taptempo.py][taptempo.py]] - Simple Python script to get the BPM of a tempo by tapping a key from the command line.
 
 * Trivia
-
 - OS: Arch Linux
 - Shell: Fish
 - Window Manager: StumpWM
@@ -36,9 +34,7 @@ Some (but not all) of my projects and projects I contribute to.
 - Excited for: Matrix, IPFS, Guix, Bcachefs, Pipewire, [[https://github.com/stumpwm/mahogany][Mahogany]], [[https://github.com/stumpwm/paulownia][Paulownia]], [[https://github.com/malcolmstill/ulubis][Ulubis]].
 
 * Note
-
 GitHub sponsors matches 100% of the donations from the first year, which is why I haven't activated it yet. If you want to sponsor me, let me know and I'll activate it.
 
 * !
-
 ⏻ 蛾 🖧 🎵 🎮 ♽ ∞ 😇 🐾 ✨
