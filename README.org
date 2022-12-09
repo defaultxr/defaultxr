@@ -15,7 +15,9 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable [[https://defaultxr.github.io/cl-collider-tutorial/][here]].
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
 - [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by translating input events to equivalent "MIDI notes".
+- [[https://github.com/defaultxr/tag-edit-mode][tag-edit-mode]] - Emacs major mode for editing file tags (id3, etc).
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
+- [[https://github.com/defaultxr/factor-osc][factor-osc]] - Open Sound Control (OSC) vocabulary for Factor.
 - [[https://github.com/defaultxr/taptempo.py][taptempo.py]] - Simple Python script to get the BPM of a tempo by tapping a key from the command line.
 
 * Trivia
