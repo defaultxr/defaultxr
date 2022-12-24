@@ -16,6 +16,7 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by translating input events to equivalent "MIDI notes".
 - [[https://github.com/defaultxr/tag-edit-mode][tag-edit-mode]] - Emacs major mode for editing file tags (id3, etc).
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
+- [[https://github.com/defaultxr/weechat-log-mode][weechat-log-mode]] - A simple Emacs mode for viewing [[https://weechat.org/][WeeChat]] log files.
 
 ** Factor
 - [[https://github.com/defaultxr/factor-osc][factor-osc]] - Open Sound Control (OSC) vocabulary for Factor.
