@@ -20,6 +20,7 @@ Some (but not all) of my projects and projects I contribute to.
 
 ** Factor
 - [[https://github.com/defaultxr/factor-osc][factor-osc]] - Open Sound Control (OSC) vocabulary for Factor.
+- [[https://github.com/defaultxr/factor-supercollider][factor-supercollider]] - SuperCollider vocabulary for Factor.
 
 ** Pure Data
 - [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities. Kind of a mess, but slowly being cleaned up and reworked.
