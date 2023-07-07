@@ -10,6 +10,7 @@ Some (but not all) of my projects and projects I contribute to.
 - [[https://github.com/defaultxr/bdef][bdef]] - Lisp system to simplify and improve handling of audio buffers in supported synthesis engines.
 - [[https://github.com/defaultxr/thundersnow][thundersnow]] - Digital audio workstation and "live coding laboratory" in Lisp, building on cl-patterns and bdef with various graphical interfaces. Currently in very early (pre-alpha) stages of development.
 - [[https://github.com/defaultxr/worm]["worm"]] - Working title for my action/sandbox game in Lisp, inspired by early Sonic and Zelda. Currently private and in very early stages of development.
+- [[https://github.com/defaultxr/sudoku-solver][sudoku-solver]] - A simple sudoku solver.
 
 ** Emacs
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
