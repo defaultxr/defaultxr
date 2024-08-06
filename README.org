@@ -12,7 +12,7 @@ Some (but not all) of my projects and projects I contribute to. My "best" projec
 - [[https://github.com/defaultxr/cl-alsa-midi][cl-alsa-midi]] - A Common Lisp library for MIDI in Linux via ALSA.
 - [[https://github.com/defaultxr/worm]["worm"]] - Working title for my action/sandbox game in Lisp, inspired by early Sonic and Zelda. Currently private and in very early stages of development.
 - [[https://github.com/defaultxr/datamuse][datamuse]] - Common Lisp library for accessing the Datamuse word-finding API. ⚡
-- [[https://github.com/defaultxr/sudoku-solver][sudoku-solver]] - A simple (work-in-progress) sudoku solver.
+# - [[https://github.com/defaultxr/sudoku-solver][sudoku-solver]] - A simple (work-in-progress) sudoku solver.
 
 ** Emacs
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
