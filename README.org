@@ -5,20 +5,20 @@ Some (but not all) of my projects and projects I contribute to. My "best" projec
 
 ** Common Lisp
 - [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise through composition of its library of patterns and function generators. ⚡
-- [[https://github.com/byulparan/cl-collider][cl-collider]] - A Lisp interface to the SuperCollider audio synthesis server. Not my project, but one I contribute to frequently. ⚡
+- [[https://github.com/byulparan/cl-collider][cl-collider]] - A Lisp interface to the SuperCollider audio synthesis server. Not my project, but one I like to contribute to. ⚡
 - [[https://github.com/defaultxr/cl-collider-tutorial][cl-collider tutorial]] - Tutorial for getting started with cl-collider. Viewable online [[https://defaultxr.github.io/cl-collider-tutorial/][here]].
 - [[https://github.com/defaultxr/bdef][bdef]] - Lisp system to simplify and improve handling of audio buffers in supported synthesis engines. 🌙
 - [[https://github.com/defaultxr/thundersnow][thundersnow]] - Digital audio workstation and "live coding laboratory" in Lisp, building on cl-patterns and bdef with various graphical interfaces. Currently in very early (pre-alpha) stages of development.
-- [[https://github.com/defaultxr/cl-alsa-midi][cl-alsa-midi]] - A Common Lisp library for MIDI in Linux via ALSA.
+- [[https://github.com/defaultxr/cl-alsa-midi][cl-alsa-midi]] - A Common Lisp library for MIDI in Linux via ALSA. Based on [[https://github.com/defaultxr/cl-alsaseq][cl-alsaseq]] originally written by Richard Venn.
 - [[https://github.com/defaultxr/worm]["worm"]] - Working title for my action/sandbox game in Lisp, inspired by early Sonic and Zelda. Currently private and in very early stages of development.
-- [[https://github.com/defaultxr/datamuse][datamuse]] - Common Lisp library for accessing the Datamuse word-finding API. ⚡
+- [[https://github.com/defaultxr/datamuse][datamuse]] - Common Lisp library for accessing the [[https://www.datamuse.com/][Datamuse]] word-finding API. ⚡
 # - [[https://github.com/defaultxr/sudoku-solver][sudoku-solver]] - A simple (work-in-progress) sudoku solver.
 
 ** Emacs
 - [[https://github.com/defaultxr/tracker-mode][tracker-mode]] - Tracker-inspired sequencer for Emacs. Currently in early stages of development.
 - [[https://github.com/defaultxr/piano-mode][piano-mode]] - Emacs mode that turns your computer keyboard into a "piano keyboard" by translating input events to equivalent MIDI notes.
 - [[https://github.com/defaultxr/tag-edit-mode][tag-edit-mode]] - Emacs major mode for editing file tags (id3, etc).
-- [[https://github.com/defaultxr/weechat.el][weechat.el]] - Chat via weechat's relay protocol in Emacs. [[https://github.com/the-kenny/weechat.el][Originally written]] by [[https://github.com/the-kenny][the-kenny]], but the repo was archived.
+- [[https://github.com/defaultxr/weechat.el][weechat.el]] - Chat via [[https://weechat.org/][WeeChat]]'s relay protocol in Emacs. [[https://github.com/the-kenny/weechat.el][Originally written]] by [[https://github.com/the-kenny][the-kenny]], but the repo was archived.
 - [[https://github.com/defaultxr/fluxus-mode][fluxus-mode]] - An Emacs mode for interacting with the [[http://www.pawfal.org/fluxus/][Fluxus]] live coding environment. Forked from [[https://github.com/lesbroot/fluxus-framework][fluxus-framework]].
 - [[https://github.com/defaultxr/weechat-log-mode][weechat-log-mode]] - A simple Emacs mode for viewing [[https://weechat.org/][WeeChat]] log files.
 
@@ -40,7 +40,7 @@ Some (but not all) of my projects and projects I contribute to. My "best" projec
 - [[https://github.com/defaultxr/scripts][scripts]] - A curated collection of some of the scripts I've created. Written in a few different languages (...but mostly Fish). ⚡
 
 * Trivia
-- Software environment: [[https://archlinux.org/][Arch Linux]] (OS), [[https://fishshell.com/][Fish]] (shell), [[http://stumpwm.github.io/][StumpWM]] (WM), [[https://alacritty.org/][Alacritty]] (terminal), [[https://www.gnu.org/software/emacs][Emacs]] (editor/OS).
+- Environment: [[https://archlinux.org/][Arch Linux]] (OS), [[https://fishshell.com/][Fish]] (shell), [[http://stumpwm.github.io/][StumpWM]] (WM), [[https://alacritty.org/][Alacritty]] (terminal), [[https://www.gnu.org/software/emacs][Emacs]] (editor/OS).
 - Favorite languages: [[https://lisp-lang.org/][Common Lisp]], [[http://factorcode.org/][Factor]], [[https://pharo.org/][Pharo]] (Smalltalk), [[https://raku.org/][Raku]], [[https://cons.io/][Gerbil]] (Scheme), [[https://www.gnu.org/software/guile/][Guile]] (Scheme), [[http://puredata.info/][Pure Data]], [[https://fishshell.com/][Fish]].
 - Most-used languages: [[https://lisp-lang.org/][Common Lisp]], [[https://fishshell.com/][Fish]], [[http://factorcode.org/][Factor]], [[https://www.python.org/][Python]].
 - Favorite OSes: [[https://guix.gnu.org/][Guix]], [[https://archlinux.org/][Arch Linux]], [[http://9front.org/][Plan 9]].
@@ -53,4 +53,4 @@ Some (but not all) of my projects and projects I contribute to. My "best" projec
 GitHub sponsors matches 100% of the donations from the first year, which is why I haven't activated it yet. If you want to sponsor me, let me know and I'll activate it.
 
 * !
-⏻ 蛾 🖧 🎵 🎮 ♽ ∞ 😇 🐾 ✨
+⏻ 蛾 🖧 🎵 🎮 ♽ ∞ 🐾 ✨
