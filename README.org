@@ -1,7 +1,7 @@
 Hello, and thanks for checking out my profile! 😇
 
 * Projects
-Some (but not all) of my projects and projects I contribute to. My "best" projects are marked with ⚡, and other notable ones are marked with 🌙.
+Some (but not all) of my projects and projects I contribute to. The "best" projects are marked with ⚡, and other notable ones are marked with 🌙.
 
 ** Common Lisp
 - [[https://github.com/defaultxr/cl-patterns][cl-patterns]] - Lisp system for writing and performing "algorithmic" music and noise through composition of its library of patterns and function generators. ⚡
@@ -27,6 +27,9 @@ Some (but not all) of my projects and projects I contribute to. My "best" projec
 - [[https://github.com/defaultxr/factor-osc][factor-osc]] - Open Sound Control (OSC) vocabulary for Factor. 🌙
 - [[https://github.com/defaultxr/factor-sexp][factor-sexp]] - S-expression parser for Factor.
 - [[https://github.com/defaultxr/search-by-example][search-by-example]] - An attempt at "search by example" functionality for Factor.
+
+** Fennel
+- [[https://github.com/defaultxr/multiplicative][multiplicative]] - [[https://mpv.io][mpv]] extension that adds a variety of useful features and improvements, with an emphasis on usability, consistency, and dynamism. Multiply the power of mpv. ⚡
 
 ** Pure Data
 - [[https://github.com/defaultxr/xr-abstractions][xr-abstractions]] - Set of Pure Data abstractions including various kinds of sequencers, GUIs, and other utilities. Kind of a mess, but slowly being cleaned up and reworked. 🌙
